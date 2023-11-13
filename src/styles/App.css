@@ -5,6 +5,8 @@
   text-align: center;
 }
 
-h3{
-  color: red;
+.navbar{
+  width: "100vw";
+  flex-direction: row;
+  justify-content: end;
 }
